@@ -1,4 +1,4 @@
-# Advertising-Budget-and-Sales-Prediction
+# Advertising Budget and Sales Prediction
 
 This project analyzes the relationship between advertising budgets (TV, Radio, Newspaper) and product sales. It applies data visualization and linear regression modeling to predict future sales based on advertising spend.
 
